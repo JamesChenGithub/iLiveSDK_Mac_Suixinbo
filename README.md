@@ -8,7 +8,7 @@ SDK目录: iLiveSDK_Mac_Suixinbo/SuixinboForMac/FrameworksMac
 
 ## 随心播
 
-1、安装包体验
+1、<a name="#dmg_install">安装包体验</a>
 
 下载的工程中 SuiXinBoForMac_yymmdd.dmg 是可以直接运行的安装包
 
